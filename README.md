@@ -1,9 +1,10 @@
 # Hola, mi nombre es Sebastián de Iturralde 👋
 ## Data Analyst Junior
-> Python, Jupyter
+> Python, Jupyter, Power Bi
 
 ### Sobre mí:
-Apasionado por el mundo de los datos y la analítica, con una sólida formación académica en Master D, estoy emocionado por comenzar mi carrera como analista de datos y aplicar mis habilidades analíticas y mi capacidad para resolver problemas de manera creativa. Aunque no tengo experiencia laboral previa en el campo, estoy ansioso por aprender y crecer profesionalmente en un entorno desafiante y dinámico.
+Apasionado por el mundo de los datos y la analítica, con una sólida formación académica en recopilación, análisis e interpretación de grandes volúmenes de datos. Con conocimientos avanzados de Python y herramientas de visualización de datos como Matploblib y Seaborn. Habilidad para elaborar informes detallados que apoyan la toma de decisiones estratégicas. Capaz de trabajar en equipos multiculturales y orientado a objetivos.
+Busco crecer profesionalmente en un entorno desafiante y dinámico.
 
 Actualmente estudiando ciberseguridad.
 
@@ -14,10 +15,11 @@ Actualmente estudiando ciberseguridad.
 **English**
 # Hello, I am Sebastián de Iturralde 👋
 ## Data Analyst Junior
-> Python, Jupyter
+> Python, Jupyter, Power Bi
 
 ### About me:
-Passionate about the world of data and analytics, with a solid academic background in Master D, I'm excited to start my career as data analyst and being able to apply my skills and my ability to solve problems creativily. Although I have no prior work experience in the field, I'm eager to learn and grow professionally in a challenging and dynamic enviroment. 
+Passionate about the world of data and analytics, with a solid academic background in collection, analysis and interpretation of large volumes of data. With advanced knowledge of Python and data visualization tools such as Matploblib and Seaborn. Ability to prepare detailed reports that support strategic decision making. Able to work in multicultural teams and goal-oriented.
+I seek to grow professionally in a challenging and dynamic environment.
 
 Currently studying cybersecurity.
 <!--
