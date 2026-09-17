@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello, I am Sebastian de Iturralde👋</b></h1>
 <p align= "center">
-  <b>Cybersecurity & AI Engineering Student</b>
+  <b>Cybersecurity Analyst & AI Engineering Student</b>
 </p>
 
 
@@ -13,19 +13,29 @@ Currently studying to expand my knowledge and grow professionally in a challengi
 ## ⚙️ Languages and tools:
 ### Languages
 
-| Python  |     C    | HTML    |  CSS   | JS      |    PHP   |
-|---------|----------|---------|--------|---------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" height="55" width="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" width="55" height="55"/>
+| Python  |     JavaScript    |      C     | HTML5    |  CSS3  |    PHP   |  Bash/Shell  |
+|---------|----------|---------|--------|---------|----------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" height="55" width="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" width="55" height="55"/>  | <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" height="55" width="55"/>  |
 
-### OS
-| Linux    | Ubuntu   | Kali     |
-|----------|----------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ubuntu/ubuntu-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/canaleal/devicon/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" width="55" height="55"/>
+### Frameworks & Web Development
+| React | FastAPI | Node.js | Streamlit |
+|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/> | <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="45" height="45"/> |
 
-### Tools
-| Docker | MySQL | MongoDB | Notion | Nmap | Metasploit | Pandas | Matploblib |
-|--------|-------|---------|--------|------|------------|--------|-----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/notion/notion-original.svg" width="55" height="55"/> | <img src="https://nmap.org/images/sitelogo-nmap-software-llc.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/sdeiturralde/sdeiturralde/refs/heads/main/Icons/Metasploit.png" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/>
+### Cybersecurity & AppSec
+| Wireshark | Nmap | Metasploit | Burp Suite | Kali Linux | 
+|------|------------|------------|---------|---------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="55" height="55"/> | <img src="https://nmap.org/images/sitelogo-nmap-software-llc.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/sdeiturralde/sdeiturralde/refs/heads/main/Icons/Metasploit.png" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/BurpSuite_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/canaleal/devicon/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" width="55" height="55"/> |
+
+### Data Science & Analytics
+| Pandas | NumPy | Seaborn | Matplotlib | Scikit-Learn |
+|-------|------------|--------|-------|-------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/> |
+
+### Databases & DevOps
+|MongoDB | MySQL | Docker | Git | Ubuntu |
+|--------|-----|--------|------|------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/git/git-plain.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ubuntu/ubuntu-original.svg" width="55" height="55"/> |
 
 
 
